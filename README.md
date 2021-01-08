@@ -1,0 +1,2 @@
+# max-min-prime
+Write a C++ code with a function named “maxmin()” which takes 3 arguments from the main function and find the minimum, maximum among them. That means, numbers will be user input in main function which will be passed to the “maxmin()” function. After that the “maxmin()” function will call another function named ”prime()” which takes all these three arguments from the “maxmin()” function and find which numbers are prime only among them
